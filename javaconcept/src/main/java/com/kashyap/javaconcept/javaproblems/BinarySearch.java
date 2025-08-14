@@ -1,5 +1,7 @@
 package com.kashyap.javaconcept.javaproblems;
 
+import org.jetbrains.annotations.NotNull;
+
 public class BinarySearch {
 
     public static void main(String[] args) {
